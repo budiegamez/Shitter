@@ -1,2 +1,2 @@
 # Shitter
-Mod for Terrarai
+Mod for Terraria
